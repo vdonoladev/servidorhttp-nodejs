@@ -13,7 +13,6 @@
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#licença">Licença</a>
 </h3>
-___
 
 ## :information_source: Sobre
 
